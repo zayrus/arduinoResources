@@ -23,7 +23,14 @@
 
 [Medidor PH con arduino mini](http://ciberdroide.com/AcuBioMed/medidor-de-ph-con-arduino-pro-mini-y-sensor-de-dormant-labs/)
 
+
 [Medidor de PH Dormand Labs PH](http://rezaalihussain.blogspot.com.ar/2014/04/measuring-ph-using-dormant-labs-ph.html)
 
 
 [Arduino JS, Proyecto: Johnny five](https://github.com/rwaldron/johnny-five)
+
+
+[Arduino Bluetooth Arduino](https://github.com/jalucenyo/Arduino_BT_Android)
+
+
+[Ejemplo Arduino Bluetooth](https://github.com/coconauts/Arduino-Android-Bluetooth)
